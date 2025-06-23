@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://img.shields.io/badge/spring boot-20232a.svg?style=for-the-badge&logo=spring boot&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/spring boot-20232a.svg?style=for-the-badge&logo=spring&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/unity-20232a.svg?style=for-the-badge&logo=unity&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/fastapi-20232a.svg?style=for-the-badge&logo=fastapi&logoColor=61DAFB" />
 
