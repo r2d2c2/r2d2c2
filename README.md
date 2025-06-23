@@ -1,7 +1,15 @@
 ## Hi there 👋
 
+<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/#6DB33F.svg" />
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r2d2c2&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r2d2c2&layout=compact)
+
+
+
 <!--
 **r2d2c2/r2d2c2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
