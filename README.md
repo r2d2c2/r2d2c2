@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/#6DB33F.svg" />
+<img src="https://img.shields.io/badge/spring boot-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/unity-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/fastapi-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
 
 
 
